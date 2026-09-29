@@ -58,6 +58,6 @@ ecommerce-customer-segmentation-clv/
 ├── dashboard_preview.png                # High-resolution dashboard screenshot
 └── README.md                            # Project documentation & Executive summary
 
-🔗 Raw Dataset Note: Due to file size constraints, the raw dataset containing 5 uncompressed CSV files (100k customers, web logs, transactions) is hosted on Kaggle:
+🔗 Raw Dataset Note: Due to file size constraints, the raw dataset containing 5 uncompressed CSV files (100k customers, transactions, events, products, campaign) is hosted on Kaggle:
 
 Link to Kaggle Dataset: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset/data 
