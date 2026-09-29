@@ -50,6 +50,9 @@ Dựa trên dữ liệu phân tích từ mô hình ML và báo cáo Power BI, c�
 
 ## 📂 Repository Structure & Data Availability
 
+🔗 Raw Dataset Note: Due to file size constraints, the raw dataset containing 5 uncompressed CSV files (100k customers, transactions, events, products, campaign) is hosted on Kaggle:
+Link to Kaggle Dataset: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset/data 
+
 ```text
 ecommerce-customer-segmentation-clv/
 ├── final_customer_analytics_master.csv  # Processed analytics master dataset (Power BI source)
@@ -58,6 +61,3 @@ ecommerce-customer-segmentation-clv/
 ├── dashboard_preview.png                # High-resolution dashboard screenshot
 └── README.md                            # Project documentation & Executive summary
 
-🔗 Raw Dataset Note: Due to file size constraints, the raw dataset containing 5 uncompressed CSV files (100k customers, transactions, events, products, campaign) is hosted on Kaggle:
-
-Link to Kaggle Dataset: https://www.kaggle.com/datasets/geethasagarbonthu/marketing-and-e-commerce-analytics-dataset/data 
